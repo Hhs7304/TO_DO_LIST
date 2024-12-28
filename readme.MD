@@ -1,4 +1,4 @@
-# Conversational AI for Customer Service
+# Conversational AI 
 
 ## Project Overview
 This project aims to develop an intelligent Conversational AI system tailored for customer service applications. The system leverages Natural Language Processing (NLP) and Machine Learning to handle customer queries efficiently and provide human-like responses. It also ensures seamless escalation to human agents for complex issues.
